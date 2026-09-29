@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <img src="https://codestrike.store/uploads/resources/velora-premium-phpbb-33-style-control-panel_gallery_2_1790696078.webp" alt="Velora ACP">
+</p>
+
+<p align="center">
   <strong>A modern, premium and fully responsive phpBB experience.</strong>
 </p>
 
