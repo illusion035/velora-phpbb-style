@@ -150,12 +150,3 @@ Velora also adds several quality-of-life improvements.
 | `?` | Show shortcuts |
 
 ---
-
-## 🖼️ Screenshots
-
-### Forum Index
-
-> Add your forum index screenshot here.
-
-```md
-![Velora Forum Index](screenshots/index.png)
