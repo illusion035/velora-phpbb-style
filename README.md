@@ -20,10 +20,6 @@ Buy it from <a href="https://codestrike.store/resource/velora-premium-phpbb-33-s
 </p>
 
 <p align="center">
-  <img src="https://codestrike.store/uploads/resources/velora-premium-phpbb-33-style-control-panel_gallery_3_1790696448.webp" alt="Velora Preview 3">
-</p>
-
-<p align="center">
   <img src="https://codestrike.store/uploads/resources/velora-premium-phpbb-33-style-control-panel_gallery_4_1790696448.webp" alt="Velora Preview 4">
 </p>
 
