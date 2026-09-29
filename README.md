@@ -1,4 +1,5 @@
 # Velora — Premium phpBB 3.3 Style
+Buy it from <a href="https://codestrike.store/resource/velora-premium-phpbb-33-style-control-panel" alt="Link">here</a> for 19.99€
 
 ## 🖼️ Preview
 
