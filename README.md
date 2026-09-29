@@ -1,11 +1,17 @@
 # Velora — Premium phpBB 3.3 Style
 
+![Velora Preview](https://codestrike.store/uploads/resources/velora-premium-phpbb-33-style-control-panel_1790695593.webp)
+
+![Velora Forum](https://codestrike.store/uploads/resources/velora-premium-phpbb-33-style-control-panel_gallery_0_1790695595.webp)
+
+![Velora Topic](https://codestrike.store/uploads/resources/velora-premium-phpbb-33-style-control-panel_gallery_1_1790695596.webp)
+
 <p align="center">
   <strong>A modern, premium and fully responsive phpBB experience.</strong>
 </p>
 
 <p align="center">
-  <a href="https://codestrike.store">
+  <a href="https://codestrike.store/resource/velora-premium-phpbb-33-style-control-panel">
     <img src="https://img.shields.io/badge/Buy%20Velora-€19.99-8B5CF6?style=for-the-badge" alt="Buy Velora">
   </a>
   <img src="https://img.shields.io/badge/phpBB-3.3.x-2563EB?style=for-the-badge" alt="phpBB 3.3">
